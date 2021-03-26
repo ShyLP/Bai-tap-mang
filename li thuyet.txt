@@ -1,1 +1,6 @@
-
+1. mảng là gì ?
+-tập hợp các phần tử cùng kiểu dữ liệu liên tiếp nhau trong bộ nhớ
+2. số lượng phần tử tối đa của mảng là giá trị như thế nào ?
+-Số lượng phần tử tối đa của mảng bằng số lượng phần tử khai báo trong mảng
+3. mảng tĩnh khác gì so với mảng động ?
+-mảng tĩnh 

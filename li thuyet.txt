@@ -3,4 +3,14 @@
 2. số lượng phần tử tối đa của mảng là giá trị như thế nào ?
 -Số lượng phần tử tối đa của mảng bằng số lượng phần tử khai báo trong mảng
 3. mảng tĩnh khác gì so với mảng động ?
--mảng tĩnh 
+-mảng tĩnh : khi cấp phát tĩnh phải khai báo giá trị từ đầu và không thể thay đổi giá trị cho đến cuối chương trình
+-mảng động : tùy nhu cầu sử dụng mà cấp phát đến vị trí đó tránh lãng phí bộ nhớ
+4. trình bày CHI TIÊT chương trình sẽ xử lý gì khi gặp lệnh:   int a[10];
+-cấp phát 1 vùng nhớ liên tiếp trên các ô nhớ, mỗi giá trị trong các ô nhớ đều mang giá trị rác
+5. trình bày ý nghĩa lệnh:  int a[7];         và lệnh   a[0];
+-int a[7] khai báo mảng a có 7 phần tử 
+-a[0] vị trí đầu tiên của phần tử có trong mảng a
+6. giá trị của các phần tử mảng sau khi vừa khai báo là gì ?
+-giá trị rác
+7. trình bày công thức tính kích thước mảng: float a[n]?
+-4*n
